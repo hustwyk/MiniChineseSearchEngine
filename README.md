@@ -1,5 +1,5 @@
 # MiniSearchEngine
-##This is the Data Structure Course Design
+## This is the Data Structure Course Design
   + 这是大二暑假数据结构的课程设计，采用**hash**词典、**MMSEG**分词算法、**MFC框架**在VS2015上做的一款简易的搜索引擎，界面有点模仿Google的logo，不要在意这些细节，主要是为了复习数据结构学习过的知识，并将其运用到实际中而已。
   + 在这些文件之外应该还有一个以"html"命名的文件夹，下面最多放置188个html文件（当然，在程序中对最大容量可以进行扩充，188只是课设时实验测试时使用的数字），html文件用数字进行编号，不需要每个数字都有对应的文件，也不用连续，只要数值小于等于188即可。
   + 这些本来是VS工程中的一部分，包含了所有的.cpp和.h文件以及.rc文件，便于以后的扩展和维护。
